@@ -79,8 +79,8 @@ To compile and test Diffuse:
 
 ```sh
 meson setup build
-cd build
 meson compile
+cd build
 meson test
 ```
 
